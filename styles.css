@@ -1,0 +1,29 @@
+img {  
+
+/* .article { */
+/* width: 50%; */
+/* padding-bottom: 10px; } */ }
+
+}
+.pull-right {
+  float: right !important;
+}
+
+.pull-left {
+	padding-right: 10px;
+}
+
+p::first-letter {
+font-size: 30px; }
+
+h1, h3 {
+text-align:center; }
+
+footer {
+text-align: center;
+padding-top: 10px; }
+
+label {
+/* word-spacing: 5px;  */
+padding: 0 5px 0 5px; }
+
